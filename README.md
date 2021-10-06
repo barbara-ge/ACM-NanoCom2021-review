@@ -1,4 +1,4 @@
-#ACM-NanoCom2021 - Astrocytes in modulating subcellular, cellular and intercellular molecular neuronal communication
+# ACM-NanoCom2021 - Astrocytes in modulating subcellular, cellular and intercellular molecular neuronal communication
 
 In this repository you will find the MATLAB files and the immunocytochemistry figures used to obtain Fig.2 shown in the publication:
 
